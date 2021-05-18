@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
 class Example extends Component {
 	state = {
@@ -43,7 +43,7 @@ return (
 						<th>Phone Number</th>
 					</tr>
 				</thead>
-				<tbody>
+				<tbody classname = "Users">
 					{ this.state.filterPeople.map(randomUser => (
 					<tr>
 						<td>{randomUser.name.first}</td>
