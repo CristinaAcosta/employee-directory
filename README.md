@@ -2,7 +2,7 @@
 
 ## Links:
 
-Repo: https://github.com/CristinaAcosta/employee-directory
+Repo: https://github.com/CristinaAcosta/employee-directory <br>
 Deployed: https://cristinaacosta.github.io/employee-directory/
 
 ## Description:
