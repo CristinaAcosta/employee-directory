@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Example from "./Compontents/table";
 
 function App() {
   return (
-    <div>
-      example
-    </div>
+    <Example/>
   )
 }
+
 export default App;
 
